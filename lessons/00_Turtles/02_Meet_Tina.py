@@ -1,7 +1,7 @@
 """
 The is a simple Turtle program that draws a square and writes a message. The
 lines that start with a # are comments. They are not executed by Python. The
-lines inside the three quotes are also comments, but of a different sort (
+lines inside the three quotes are also comments, but of a eddifferent sort (
 called "doc comments" ) Comments are used to explain what the code does. Read
 the program and try to understand what each line does.
 
@@ -49,7 +49,6 @@ tina.circle(101, steps=50)
 tina.end_fill()
 
 turtle.exitonclick()                    # Close the window when we click on it
-
+tina.left(50)
 # Now you can try writing your own programs. Open
 # the next file 03_Turtle_Tricks.py
-

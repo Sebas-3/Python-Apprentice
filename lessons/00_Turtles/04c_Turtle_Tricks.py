@@ -16,8 +16,8 @@ turtle.setup (width=600, height=600)    # Set the size of the window
 tina = turtle.Turtle()                  # Create a turtle named tina
 
 # Use tina.circle() to draw a circle, and tina.goto() to move tina to a new location
-# Use tina.begin_fill(), tina.end_fill(), and tina.fillcolor() to fill in the shapes
-
+# Use tina.begin_fill(), tina.end_fill(), and tina.fillcolor() to fill in the sh
+            
 
 ... # Your code here
 
